@@ -1,0 +1,189 @@
+2020-09-24 16:07:14,050 INFO 28003 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-24 16:07:14,050 INFO 28003 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-24 16:07:14,050 INFO 28003 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-24 16:07:14,559 INFO 27999 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44565444ms at 2020-09-25 04:30:00.003
+2020-09-24 16:07:14,559 INFO 27999 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28365441ms at 2020-09-25 00:00:00.000
+2020-09-24 16:07:14,559 INFO 27999 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28366441ms at 2020-09-25 00:00:01.000
+2020-09-25 14:39:32,331 INFO 13959 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49827676ms at 2020-09-26 04:30:00.007
+2020-09-25 14:39:32,331 INFO 13959 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33627669ms at 2020-09-26 00:00:00.000
+2020-09-25 14:39:32,332 INFO 13959 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33628669ms at 2020-09-26 00:00:01.001
+2020-09-25 14:39:31,938 INFO 13976 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:39:31,938 INFO 13976 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:39:31,938 INFO 13976 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:39:52,692 INFO 14057 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:39:52,692 INFO 14057 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:39:52,692 INFO 14057 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:39:53,118 INFO 14046 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49806887ms at 2020-09-26 04:30:00.005
+2020-09-25 14:39:53,118 INFO 14046 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33606882ms at 2020-09-26 00:00:00.000
+2020-09-25 14:39:53,119 INFO 14046 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33607881ms at 2020-09-26 00:00:01.000
+2020-09-25 14:40:45,451 INFO 14182 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:40:45,451 INFO 14182 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:40:45,451 INFO 14182 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:40:59,847 INFO 14230 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:40:59,847 INFO 14230 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:40:59,847 INFO 14230 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:41:18,128 INFO 14279 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:41:18,128 INFO 14279 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:41:18,128 INFO 14279 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:46:02,138 INFO 14940 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:46:02,138 INFO 14940 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:46:02,138 INFO 14940 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:46:03,504 INFO 14930 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49436500ms at 2020-09-26 04:30:00.004
+2020-09-25 14:46:03,504 INFO 14930 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33236496ms at 2020-09-26 00:00:00.000
+2020-09-25 14:46:03,505 INFO 14930 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33237496ms at 2020-09-26 00:00:01.001
+2020-09-25 14:50:13,665 INFO 15392 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:50:13,665 INFO 15392 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:50:13,665 INFO 15392 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:51:08,408 INFO 15502 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:51:08,408 INFO 15502 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:51:08,408 INFO 15502 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:52:04,732 INFO 15615 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:52:04,732 INFO 15615 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:52:04,732 INFO 15615 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:52:18,191 INFO 15664 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:52:18,191 INFO 15664 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:52:18,191 INFO 15664 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:52:43,087 INFO 15735 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:52:43,087 INFO 15735 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:52:43,087 INFO 15735 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:52:43,488 INFO 15729 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49036514ms at 2020-09-26 04:30:00.002
+2020-09-25 14:52:43,488 INFO 15729 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32836512ms at 2020-09-26 00:00:00.000
+2020-09-25 14:52:43,489 INFO 15729 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32837512ms at 2020-09-26 00:00:01.001
+2020-09-25 14:53:25,008 INFO 15843 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:53:25,008 INFO 15843 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:53:25,008 INFO 15843 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:54:23,497 INFO 15959 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:54:23,497 INFO 15959 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:54:23,497 INFO 15959 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:57:35,129 INFO 16313 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:57:35,129 INFO 16313 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:57:35,129 INFO 16313 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:57:55,012 INFO 16377 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:57:55,013 INFO 16377 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:57:55,013 INFO 16377 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:58:00,808 INFO 16406 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:58:00,808 INFO 16406 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:58:00,808 INFO 16406 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:59:06,644 INFO 16541 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:59:06,644 INFO 16541 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:59:06,644 INFO 16541 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 14:59:07,590 INFO 16542 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 14:59:07,590 INFO 16542 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 14:59:07,590 INFO 16542 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:04:08,215 INFO 17059 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:04:08,215 INFO 17059 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:04:08,215 INFO 17059 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:04:36,364 INFO 17139 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:04:36,364 INFO 17139 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:04:36,364 INFO 17139 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:05:48,479 INFO 17289 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:05:48,479 INFO 17289 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:05:48,479 INFO 17289 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:05:56,746 INFO 17336 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:05:56,746 INFO 17336 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:05:56,746 INFO 17336 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:09:00,561 INFO 17677 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:09:00,561 INFO 17677 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:09:00,561 INFO 17677 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:09:09,611 INFO 17714 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:09:09,611 INFO 17714 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:09:09,611 INFO 17714 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:12:28,932 INFO 18044 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:12:28,932 INFO 18044 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:12:28,932 INFO 18044 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:12:53,588 INFO 18128 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:12:53,588 INFO 18128 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:12:53,588 INFO 18128 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:13:10,494 INFO 18170 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:13:10,494 INFO 18170 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:13:10,494 INFO 18170 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:13:31,468 INFO 18227 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:13:31,468 INFO 18227 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:13:31,468 INFO 18227 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:13:45,242 INFO 18275 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:13:45,242 INFO 18275 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:13:45,242 INFO 18275 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:14:32,400 INFO 18361 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:14:32,400 INFO 18361 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:14:32,400 INFO 18361 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:14:51,668 INFO 18428 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:14:51,668 INFO 18428 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:14:51,668 INFO 18428 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:15:10,832 INFO 18475 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:15:10,832 INFO 18475 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:15:10,832 INFO 18475 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:15:21,255 INFO 18498 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:15:21,255 INFO 18498 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:15:21,255 INFO 18498 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:53:46,461 INFO 22302 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:53:46,461 INFO 22302 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:53:46,461 INFO 22302 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:54:06,177 INFO 22353 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:54:06,177 INFO 22353 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:54:06,177 INFO 22353 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:54:38,494 INFO 22436 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:54:38,494 INFO 22436 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:54:38,494 INFO 22436 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:55:04,144 INFO 22499 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:55:04,144 INFO 22499 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:55:04,144 INFO 22499 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:55:05,712 INFO 22509 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:55:05,712 INFO 22509 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:55:05,712 INFO 22509 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:55:34,243 INFO 22564 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:55:34,243 INFO 22564 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:55:34,243 INFO 22564 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:56:14,477 INFO 22658 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:56:14,477 INFO 22658 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:56:14,477 INFO 22658 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:56:22,135 INFO 22684 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:56:22,135 INFO 22684 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:56:22,135 INFO 22684 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:56:26,120 INFO 22702 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:56:26,120 INFO 22702 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:56:26,120 INFO 22702 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:56:29,516 INFO 22715 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:56:29,516 INFO 22715 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:56:29,516 INFO 22715 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:56:44,197 INFO 22754 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:56:44,197 INFO 22754 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:56:44,197 INFO 22754 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 15:58:54,317 INFO 22985 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 15:58:54,317 INFO 22985 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 15:58:54,317 INFO 22985 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:01:24,043 INFO 23287 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 16:01:24,043 INFO 23287 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 16:01:24,043 INFO 23287 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:02:50,336 INFO 23462 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 16:02:50,336 INFO 23462 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 16:02:50,336 INFO 23462 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:03:06,975 INFO 23513 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 16:03:06,975 INFO 23513 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 16:03:06,975 INFO 23513 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:03:31,533 INFO 23577 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 16:03:31,533 INFO 23577 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 16:03:31,533 INFO 23577 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:03:59,446 INFO 23635 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 16:03:59,446 INFO 23635 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 16:03:59,446 INFO 23635 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:50:36,825 INFO 28739 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 16:50:36,825 INFO 28739 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 16:50:36,825 INFO 28739 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-25 16:50:37,239 INFO 28718 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41962763ms at 2020-09-26 04:30:00.002
+2020-09-25 16:50:37,240 INFO 28718 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25762761ms at 2020-09-26 00:00:00.001
+2020-09-25 16:50:37,240 INFO 28718 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25763760ms at 2020-09-26 00:00:01.000
+2020-09-25 17:06:02,465 INFO 30297 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-25 17:06:02,465 INFO 30297 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-25 17:06:02,466 INFO 30297 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-28 17:15:40,052 INFO 16219 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-28 17:15:40,052 INFO 16219 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-09-28 17:15:40,052 INFO 16219 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-28 17:15:40,485 INFO 16215 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40459518ms at 2020-09-29 04:30:00.003
+2020-09-28 17:15:40,485 INFO 16215 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24259515ms at 2020-09-29 00:00:00.000
+2020-09-28 17:15:40,485 INFO 16215 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24260515ms at 2020-09-29 00:00:01.000
+2020-09-29 12:03:13,715 INFO 16215 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43006437ms at 2020-09-30 00:00:00.123
+2020-09-29 12:03:13,741 INFO 16219 [Job#16013521933633117205883774611] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-09-29 12:03:13,961 INFO 16219 [Job#16013521933633117205883774611] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 175ms
+2020-09-29 12:03:14,300 INFO 16219 [Job#16013521942983117215036610681] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-09-29 12:03:14,317 INFO 16219 [Job#16013521942983117215036610681] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 17ms
+2020-09-29 12:03:14,320 INFO 16215 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43006702ms at 2020-09-30 00:00:01.022

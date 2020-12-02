@@ -1,0 +1,29 @@
+2020-09-29 12:03:14,335 INFO 16219 [egg-logrotator] app logger reload: got log-reload message
+2020-09-29 16:33:13,460 INFO 16219 [-/127.0.0.1/-/38ms SCHEDULE /__schedule?path=/Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/_1/vd39n7hd3f78crpg4hc1pqhr0000gq/T/egg-multipart-tmp/rb-platform"
+2020-09-29 16:33:13,588 INFO 16219 [-/127.0.0.1/-/176ms SCHEDULE /__schedule?path=/Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-11-09 11:40:00,677 INFO 14112 [egg:logger] init all loggers with options: {"dir":"/Users/Bobyang/Code/enfashop/shopify-platform/logs/rb-platform","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rb-platform-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-09 11:40:00,699 INFO 14112 [egg-multipart] stream mode enable
+2020-11-09 11:40:01,051 INFO 14112 [egg-static] starting static serve /public/ -> /Users/Bobyang/Code/enfashop/shopify-platform/app/public
+2020-11-09 11:40:01,054 INFO 14112 [egg-security] use methodnoallow middleware
+2020-11-09 11:40:01,055 INFO 14112 [egg-security] use noopen middleware
+2020-11-09 11:40:01,056 INFO 14112 [egg-security] use nosniff middleware
+2020-11-09 11:40:01,057 INFO 14112 [egg-security] use xssProtection middleware
+2020-11-09 11:40:01,058 INFO 14112 [egg-security] use xframe middleware
+2020-11-09 11:40:01,058 INFO 14112 [egg-security] use dta middleware
+2020-11-09 11:40:01,059 INFO 14112 [egg-security] compose 6 middlewares into one security middleware
+2020-11-09 11:40:01,092 INFO 14112 [egg:core] dump config after load, 8ms
+2020-11-09 11:40:01,128 INFO 14112 [egg-watcher:application] watcher start success
+2020-11-09 11:40:01,169 INFO 14112 [egg:core] dump config after ready, 3ms
+2020-11-09 11:52:58,678 INFO 14857 [egg:logger] init all loggers with options: {"dir":"/Users/Bobyang/Code/enfashop/shopify-platform/logs/rb-platform","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"rb-platform-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-11-09 11:52:58,701 INFO 14857 [egg-multipart] stream mode enable
+2020-11-09 11:52:59,085 INFO 14857 [egg-static] starting static serve /public/ -> /Users/Bobyang/Code/enfashop/shopify-platform/app/public
+2020-11-09 11:52:59,092 INFO 14857 [egg-security] use methodnoallow middleware
+2020-11-09 11:52:59,093 INFO 14857 [egg-security] use noopen middleware
+2020-11-09 11:52:59,093 INFO 14857 [egg-security] use nosniff middleware
+2020-11-09 11:52:59,094 INFO 14857 [egg-security] use xssProtection middleware
+2020-11-09 11:52:59,095 INFO 14857 [egg-security] use xframe middleware
+2020-11-09 11:52:59,095 INFO 14857 [egg-security] use dta middleware
+2020-11-09 11:52:59,095 INFO 14857 [egg-security] compose 6 middlewares into one security middleware
+2020-11-09 11:52:59,125 INFO 14857 [egg:core] dump config after load, 6ms
+2020-11-09 11:52:59,176 INFO 14857 [egg-watcher:application] watcher start success
+2020-11-09 11:52:59,266 INFO 14857 [egg:core] dump config after ready, 7ms

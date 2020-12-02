@@ -1,0 +1,15 @@
+2020-09-29 16:33:13,400 INFO 16219 [Job#16013683933243279205162235451] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-09-29 16:33:13,588 INFO 16219 [Job#16013683933243279205162235451] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 177ms
+2020-09-29 16:33:13,372 INFO 16215 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 43006659ms at 2020-09-30 04:30:00.026
+2020-11-09 11:40:00,699 INFO 14112 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-09 11:40:00,699 INFO 14112 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-09 11:40:00,699 INFO 14112 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-09 11:40:01,178 INFO 14106 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60598824ms at 2020-11-10 04:30:00.002
+2020-11-09 11:40:01,179 INFO 14106 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44398822ms at 2020-11-10 00:00:00.001
+2020-11-09 11:40:01,179 INFO 14106 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44399821ms at 2020-11-10 00:00:01.000
+2020-11-09 11:52:58,701 INFO 14857 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-11-09 11:52:58,701 INFO 14857 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-11-09 11:52:58,701 INFO 14857 [egg-schedule]: register schedule /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-11-09 11:52:59,271 INFO 14854 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59820731ms at 2020-11-10 04:30:00.002
+2020-11-09 11:52:59,272 INFO 14854 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 43620729ms at 2020-11-10 00:00:00.001
+2020-11-09 11:52:59,272 INFO 14854 [Timer] /Users/Bobyang/Code/enfashop/shopify-platform/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 43621728ms at 2020-11-10 00:00:01.000
